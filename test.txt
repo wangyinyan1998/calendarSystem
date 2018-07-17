@@ -1,0 +1,1175 @@
+GeneralEvent
+eventString
+2018-1-1 1:1
+2018-2-2 23:59
+4
+0
+0
+null
+0
+0
+AnniversaryEvent
+event
+2018-1-1 0:0
+2018-1-1 23:59
+生日
+anniversaryType
+4
+0
+1
+0
+
+-1
+-1
+208-4-3 0:0
+208-4-3 0:0
+0
+CourseEvent
+eventString
+2018-1-1 1:1
+2018-2-2 23:59
+2018-1-1 1:1
+courseName
+courseContent
+20
+place
+teacher
+4
+0
+0
+0
+AnniversaryEvent
+event
+2018-1-1 0:0
+2018-1-1 23:59
+生日
+anniversaryType
+4
+0
+0
+0
+CourseEvent
+eventString
+2018-1-1 1:1
+2018-2-2 23:59
+2018-1-1 1:1
+courseName
+courseContent
+20
+place
+teacher
+4
+0
+0
+0
+DateEvent
+event
+2018-1-1 1:1
+2018-2-2 23:59
+lab
+group
+4
+0
+0
+0
+GeneralEvent
+eventString
+2018-1-1 1:1
+2018-2-2 23:59
+4
+0
+0
+null
+0
+0
+GeneralEvent
+eventString
+2018-1-1 1:1
+2018-2-2 23:59
+4
+0
+0
+null
+0
+0
+AnniversaryEvent
+event
+2018-1-1 0:0
+2018-1-1 23:59
+生日
+anniversaryType
+4
+0
+0
+0
+DateEvent
+event
+2018-1-1 1:1
+2018-2-2 23:59
+lab
+group
+4
+0
+0
+0
+GeneralEvent
+eventString
+2018-1-1 1:1
+2018-2-2 23:59
+4
+0
+0
+null
+0
+0
+InterviewEvent
+event
+2018-1-1 0:0
+2018-1-1 23:59
+interviewTime
+place
+company
+job
+4
+0
+1
+0
+
+-1
+-1
+208-4-3 0:0
+208-4-3 0:0
+0
+MeetingEvent
+event1
+2018-1-1 1:1
+2018-2-2 23:59
+lab
+discussion
+4
+0
+0
+0
+DateEvent
+event
+2018-1-1 1:1
+2018-2-2 23:59
+lab
+group
+4
+0
+0
+0
+DateEvent
+event
+2018-1-1 1:1
+2018-2-2 23:59
+lab
+group
+4
+0
+0
+0
+MeetingEvent
+event1
+2018-1-1 1:1
+2018-2-2 23:59
+lab
+discussion
+4
+0
+0
+0
+InterviewEvent
+event
+2018-1-1 0:0
+2018-1-1 23:59
+interviewTime
+place
+company
+job
+4
+0
+0
+0
+GeneralEvent
+eventString
+2018-1-1 1:1
+2018-2-2 23:59
+4
+0
+0
+null
+0
+0
+InterviewEvent
+event
+2018-1-1 0:0
+2018-1-1 23:59
+interviewTime
+place
+company
+job
+4
+0
+0
+0
+CourseEvent
+eventString
+2018-1-1 1:1
+2018-2-2 23:59
+2018-1-1 1:1
+courseName
+courseContent
+20
+place
+teacher
+4
+0
+0
+0
+AnniversaryEvent
+event
+2018-1-1 0:0
+2018-1-1 23:59
+生日
+anniversaryType
+4
+0
+0
+0
+MeetingEvent
+event1
+2018-1-1 1:1
+2018-2-2 23:59
+lab
+discussion
+4
+0
+1
+0
+
+-1
+-1
+208-4-3 0:0
+208-4-3 0:0
+0
+AnniversaryEvent
+event
+2018-1-1 0:0
+2018-1-1 23:59
+生日
+anniversaryType
+4
+0
+0
+0
+MeetingEvent
+event1
+2018-1-1 1:1
+2018-2-2 23:59
+lab
+discussion
+4
+0
+0
+0
+InterviewEvent
+event
+2018-1-1 0:0
+2018-1-1 23:59
+interviewTime
+place
+company
+job
+4
+0
+0
+0
+AnniversaryEvent
+event
+2018-1-1 0:0
+2018-1-1 23:59
+生日
+anniversaryType
+4
+0
+0
+0
+TripEvent
+eventString
+2018-1-1 1:1
+2018-2-2 23:59
+transportation
+destination
+transNumber
+4
+0
+0
+0
+InterviewEvent
+event
+2018-1-1 0:0
+2018-1-1 23:59
+interviewTime
+place
+company
+job
+4
+0
+0
+0
+AnniversaryEvent
+event
+2018-1-1 0:0
+2018-1-1 23:59
+生日
+anniversaryType
+4
+0
+0
+0
+TripEvent
+eventString
+2018-1-1 1:1
+2018-2-2 23:59
+transportation
+destination
+transNumber
+4
+0
+0
+0
+TripEvent
+eventString
+2018-1-1 1:1
+2018-2-2 23:59
+transportation
+destination
+transNumber
+4
+0
+0
+0
+TripEvent
+eventString
+2018-1-1 1:1
+2018-2-2 23:59
+transportation
+destination
+transNumber
+4
+0
+1
+0
+
+-1
+-1
+208-4-3 0:0
+208-4-3 0:0
+0
+DateEvent
+event
+2018-1-1 1:1
+2018-2-2 23:59
+lab
+group
+4
+0
+0
+0
+TripEvent
+eventString
+2018-1-1 1:1
+2018-2-2 23:59
+transportation
+destination
+transNumber
+4
+0
+0
+0
+DateEvent
+event
+2018-1-1 1:1
+2018-2-2 23:59
+lab
+group
+4
+0
+0
+0
+InterviewEvent
+event
+2018-1-1 0:0
+2018-1-1 23:59
+interviewTime
+place
+company
+job
+4
+0
+0
+0
+GeneralEvent
+eventString
+2018-1-1 1:1
+2018-2-2 23:59
+4
+0
+0
+null
+0
+0
+DateEvent
+event
+2018-1-1 1:1
+2018-2-2 23:59
+lab
+group
+4
+0
+0
+0
+InterviewEvent
+event
+2018-1-1 0:0
+2018-1-1 23:59
+interviewTime
+place
+company
+job
+4
+0
+0
+0
+InterviewEvent
+event
+2018-1-1 0:0
+2018-1-1 23:59
+interviewTime
+place
+company
+job
+4
+0
+0
+0
+InterviewEvent
+event
+2018-1-1 0:0
+2018-1-1 23:59
+interviewTime
+place
+company
+job
+4
+0
+0
+0
+GeneralEvent
+eventString
+2018-1-1 1:1
+2018-2-2 23:59
+4
+0
+0
+null
+1
+0
+
+-1
+-1
+208-4-3 0:0
+208-4-3 0:0
+0
+MeetingEvent
+event1
+2018-1-1 1:1
+2018-2-2 23:59
+lab
+discussion
+4
+0
+0
+0
+CourseEvent
+eventString
+2018-1-1 1:1
+2018-2-2 23:59
+2018-1-1 1:1
+courseName
+courseContent
+20
+place
+teacher
+4
+0
+0
+0
+DateEvent
+event
+2018-1-1 1:1
+2018-2-2 23:59
+lab
+group
+4
+0
+0
+0
+GeneralEvent
+eventString
+2018-1-1 1:1
+2018-2-2 23:59
+4
+0
+0
+null
+0
+0
+CourseEvent
+eventString
+2018-1-1 1:1
+2018-2-2 23:59
+2018-1-1 1:1
+courseName
+courseContent
+20
+place
+teacher
+4
+0
+0
+0
+AnniversaryEvent
+event
+2018-1-1 0:0
+2018-1-1 23:59
+生日
+anniversaryType
+4
+0
+0
+0
+AnniversaryEvent
+event
+2018-1-1 0:0
+2018-1-1 23:59
+生日
+anniversaryType
+4
+0
+0
+0
+GeneralEvent
+eventString
+2018-1-1 1:1
+2018-2-2 23:59
+4
+0
+0
+null
+0
+0
+GeneralEvent
+eventString
+2018-1-1 1:1
+2018-2-2 23:59
+4
+0
+0
+null
+0
+0
+MeetingEvent
+event1
+2018-1-1 1:1
+2018-2-2 23:59
+lab
+discussion
+4
+0
+1
+0
+
+-1
+-1
+208-4-3 0:0
+208-4-3 0:0
+0
+AnniversaryEvent
+event
+2018-1-1 0:0
+2018-1-1 23:59
+生日
+anniversaryType
+4
+0
+0
+0
+TripEvent
+eventString
+2018-1-1 1:1
+2018-2-2 23:59
+transportation
+destination
+transNumber
+4
+0
+0
+0
+AnniversaryEvent
+event
+2018-1-1 0:0
+2018-1-1 23:59
+生日
+anniversaryType
+4
+0
+0
+0
+CourseEvent
+eventString
+2018-1-1 1:1
+2018-2-2 23:59
+2018-1-1 1:1
+courseName
+courseContent
+20
+place
+teacher
+4
+0
+0
+0
+InterviewEvent
+event
+2018-1-1 0:0
+2018-1-1 23:59
+interviewTime
+place
+company
+job
+4
+0
+0
+0
+CourseEvent
+eventString
+2018-1-1 1:1
+2018-2-2 23:59
+2018-1-1 1:1
+courseName
+courseContent
+20
+place
+teacher
+4
+0
+0
+0
+GeneralEvent
+eventString
+2018-1-1 1:1
+2018-2-2 23:59
+4
+0
+0
+null
+0
+0
+GeneralEvent
+eventString
+2018-1-1 1:1
+2018-2-2 23:59
+4
+0
+0
+null
+0
+0
+GeneralEvent
+eventString
+2018-1-1 1:1
+2018-2-2 23:59
+4
+0
+0
+null
+0
+0
+GeneralEvent
+eventString
+2018-1-1 1:1
+2018-2-2 23:59
+4
+0
+0
+null
+1
+0
+
+-1
+-1
+208-4-3 0:0
+208-4-3 0:0
+0
+CourseEvent
+eventString
+2018-1-1 1:1
+2018-2-2 23:59
+2018-1-1 1:1
+courseName
+courseContent
+20
+place
+teacher
+4
+0
+0
+0
+InterviewEvent
+event
+2018-1-1 0:0
+2018-1-1 23:59
+interviewTime
+place
+company
+job
+4
+0
+0
+0
+MeetingEvent
+event1
+2018-1-1 1:1
+2018-2-2 23:59
+lab
+discussion
+4
+0
+0
+0
+DateEvent
+event
+2018-1-1 1:1
+2018-2-2 23:59
+lab
+group
+4
+0
+0
+0
+CourseEvent
+eventString
+2018-1-1 1:1
+2018-2-2 23:59
+2018-1-1 1:1
+courseName
+courseContent
+20
+place
+teacher
+4
+0
+0
+0
+InterviewEvent
+event
+2018-1-1 0:0
+2018-1-1 23:59
+interviewTime
+place
+company
+job
+4
+0
+0
+0
+TripEvent
+eventString
+2018-1-1 1:1
+2018-2-2 23:59
+transportation
+destination
+transNumber
+4
+0
+0
+0
+TripEvent
+eventString
+2018-1-1 1:1
+2018-2-2 23:59
+transportation
+destination
+transNumber
+4
+0
+0
+0
+MeetingEvent
+event1
+2018-1-1 1:1
+2018-2-2 23:59
+lab
+discussion
+4
+0
+0
+0
+MeetingEvent
+event1
+2018-1-1 1:1
+2018-2-2 23:59
+lab
+discussion
+4
+0
+1
+0
+
+-1
+-1
+208-4-3 0:0
+208-4-3 0:0
+0
+TripEvent
+eventString
+2018-1-1 1:1
+2018-2-2 23:59
+transportation
+destination
+transNumber
+4
+0
+0
+0
+InterviewEvent
+event
+2018-1-1 0:0
+2018-1-1 23:59
+interviewTime
+place
+company
+job
+4
+0
+0
+0
+MeetingEvent
+event1
+2018-1-1 1:1
+2018-2-2 23:59
+lab
+discussion
+4
+0
+0
+0
+CourseEvent
+eventString
+2018-1-1 1:1
+2018-2-2 23:59
+2018-1-1 1:1
+courseName
+courseContent
+20
+place
+teacher
+4
+0
+0
+0
+MeetingEvent
+event1
+2018-1-1 1:1
+2018-2-2 23:59
+lab
+discussion
+4
+0
+0
+0
+CourseEvent
+eventString
+2018-1-1 1:1
+2018-2-2 23:59
+2018-1-1 1:1
+courseName
+courseContent
+20
+place
+teacher
+4
+0
+0
+0
+AnniversaryEvent
+event
+2018-1-1 0:0
+2018-1-1 23:59
+生日
+anniversaryType
+4
+0
+0
+0
+TripEvent
+eventString
+2018-1-1 1:1
+2018-2-2 23:59
+transportation
+destination
+transNumber
+4
+0
+0
+0
+GeneralEvent
+eventString
+2018-1-1 1:1
+2018-2-2 23:59
+4
+0
+0
+null
+0
+0
+InterviewEvent
+event
+2018-1-1 0:0
+2018-1-1 23:59
+interviewTime
+place
+company
+job
+4
+0
+1
+0
+
+-1
+-1
+208-4-3 0:0
+208-4-3 0:0
+0
+CourseEvent
+eventString
+2018-1-1 1:1
+2018-2-2 23:59
+2018-1-1 1:1
+courseName
+courseContent
+20
+place
+teacher
+4
+0
+0
+0
+CourseEvent
+eventString
+2018-1-1 1:1
+2018-2-2 23:59
+2018-1-1 1:1
+courseName
+courseContent
+20
+place
+teacher
+4
+0
+0
+0
+DateEvent
+event
+2018-1-1 1:1
+2018-2-2 23:59
+lab
+group
+4
+0
+0
+0
+InterviewEvent
+event
+2018-1-1 0:0
+2018-1-1 23:59
+interviewTime
+place
+company
+job
+4
+0
+0
+0
+GeneralEvent
+eventString
+2018-1-1 1:1
+2018-2-2 23:59
+4
+0
+0
+null
+0
+0
+AnniversaryEvent
+event
+2018-1-1 0:0
+2018-1-1 23:59
+生日
+anniversaryType
+4
+0
+0
+0
+DateEvent
+event
+2018-1-1 1:1
+2018-2-2 23:59
+lab
+group
+4
+0
+0
+0
+GeneralEvent
+eventString
+2018-1-1 1:1
+2018-2-2 23:59
+4
+0
+0
+null
+0
+0
+DateEvent
+event
+2018-1-1 1:1
+2018-2-2 23:59
+lab
+group
+4
+0
+0
+0
+CourseEvent
+eventString
+2018-1-1 1:1
+2018-2-2 23:59
+2018-1-1 1:1
+courseName
+courseContent
+20
+place
+teacher
+4
+0
+1
+0
+
+-1
+-1
+208-4-3 0:0
+208-4-3 0:0
+0
+DateEvent
+event
+2018-1-1 1:1
+2018-2-2 23:59
+lab
+group
+4
+0
+0
+0
+InterviewEvent
+event
+2018-1-1 0:0
+2018-1-1 23:59
+interviewTime
+place
+company
+job
+4
+0
+0
+0
+CourseEvent
+eventString
+2018-1-1 1:1
+2018-2-2 23:59
+2018-1-1 1:1
+courseName
+courseContent
+20
+place
+teacher
+4
+0
+0
+0
+TripEvent
+eventString
+2018-1-1 1:1
+2018-2-2 23:59
+transportation
+destination
+transNumber
+4
+0
+0
+0
+GeneralEvent
+eventString
+2018-1-1 1:1
+2018-2-2 23:59
+4
+0
+0
+null
+0
+0
+CourseEvent
+eventString
+2018-1-1 1:1
+2018-2-2 23:59
+2018-1-1 1:1
+courseName
+courseContent
+20
+place
+teacher
+4
+0
+0
+0
+CourseEvent
+eventString
+2018-1-1 1:1
+2018-2-2 23:59
+2018-1-1 1:1
+courseName
+courseContent
+20
+place
+teacher
+4
+0
+0
+0
+CourseEvent
+eventString
+2018-1-1 1:1
+2018-2-2 23:59
+2018-1-1 1:1
+courseName
+courseContent
+20
+place
+teacher
+4
+0
+0
+0
